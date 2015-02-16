@@ -1,2 +1,3 @@
 # chatshire
-telehash command line chat
+
+> construction zone
